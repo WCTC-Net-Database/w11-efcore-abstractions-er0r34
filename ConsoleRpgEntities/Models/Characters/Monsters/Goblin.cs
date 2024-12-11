@@ -1,4 +1,5 @@
 ﻿using ConsoleRpgEntities.Models.Attributes;
+using ConsoleRpgEntities.Models.Items;
 
 namespace ConsoleRpgEntities.Models.Characters.Monsters
 {

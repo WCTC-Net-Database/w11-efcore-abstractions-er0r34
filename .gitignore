@@ -1,0 +1,3 @@
+.vs/
+git rm --cached *.dbmdl
+git rm --cached *.jfm

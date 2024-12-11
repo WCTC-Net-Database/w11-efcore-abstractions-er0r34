@@ -1,37 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpg\\ConsoleRpg.csproj": {}
+    "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpg\\ConsoleRpg.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj": {
+    "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj",
+        "projectUniqueName": "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj",
         "projectName": "ConsoleRpgEntities",
-        "projectPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj",
-        "packagesPath": "C:\\Users\\mcart\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\obj\\",
+        "projectPath": "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj",
+        "packagesPath": "C:\\Users\\er0r3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\er0r3\\source\\repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mcart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\er0r3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -44,43 +43,60 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.Configuration.EnvironmentVariables": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NReco.Logging.File": {
+              "target": "Package",
+              "version": "[1.2.2, )"
             }
           },
           "imports": [
@@ -99,41 +115,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpg\\ConsoleRpg.csproj": {
+    "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpg\\ConsoleRpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpg\\ConsoleRpg.csproj",
+        "projectUniqueName": "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpg\\ConsoleRpg.csproj",
         "projectName": "ConsoleRpg",
-        "projectPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpg\\ConsoleRpg.csproj",
-        "packagesPath": "C:\\Users\\mcart\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpg\\obj\\",
+        "projectPath": "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpg\\ConsoleRpg.csproj",
+        "packagesPath": "C:\\Users\\er0r3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\er0r3\\source\\repos\\w11-efcore-abstractions-er0r34\\ConsoleRpg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mcart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\er0r3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj": {
-                "projectPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj"
+              "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj": {
+                "projectPath": "C:\\Users\\er0r3\\Source\\Repos\\w11-efcore-abstractions-er0r34\\ConsoleRpgEntities\\ConsoleRpgEntities.csproj"
               }
             }
           }
@@ -147,33 +162,38 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.35, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[9.0.0, )"
             },
             "NReco.Logging.File": {
               "target": "Package",
-              "version": "[1.2.1, )"
+              "version": "[1.2.2, )"
             }
           },
           "imports": [
@@ -192,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
